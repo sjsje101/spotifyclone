@@ -20,3 +20,7 @@ HTML: Structure of the web app.
 CSS: Styling for the UI.
 
 JavaScript: Handles interactivity and audio functionality.
+
+
+visit the site --
+https://sjsje101.github.io/spotifyclone/
